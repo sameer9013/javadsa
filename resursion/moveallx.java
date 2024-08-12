@@ -5,7 +5,6 @@ public class moveallx {
             newstring+='x';
 
             }
-
             System.out.println(newstring);
             return;
         }

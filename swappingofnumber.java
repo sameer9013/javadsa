@@ -5,7 +5,7 @@ public class swappingofnumber {
         a = b;
         b = temp;
         System.out.println(a+" "+b);
-        
+    
     }
     
     public static void main(String args[]){
